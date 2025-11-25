@@ -9,8 +9,8 @@
 
 <h2>Github stats:</h2> 
 
-  [![](https://github-readme-stats.vercel.app/api?username=NAchoMatcomCC&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/NAchoMatcomCC)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=NAchoMatcomCC&theme=material-palenight)](https://github.com/NAchoMatcomCC)
+   [![](https://github-readme-stats.vercel.app/api?username=NAchoMatcomCC&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/NAchoMatcomCC)
+   [![](https://github-readme-streak-stats.herokuapp.com/?user=NAchoMatcomCC&theme=material-palenight)](https://github.com/NAchoMatcomCC)
 <!--
 **NAchoMatcomCC/NAchoMatcomCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
